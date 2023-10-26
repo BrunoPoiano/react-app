@@ -1,0 +1,15 @@
+body {
+  padding: 1.5rem;
+  background: #eee;
+  display: grid;
+  place-items: center;
+}
+
+.button-container{
+  margin-top: 50px;
+  display: grid;
+  place-items: center;
+}
+.container{
+  max-width: 100ch;
+}
